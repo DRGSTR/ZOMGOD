@@ -1,0 +1,549 @@
+fileFormatVersion: 2
+guid: 3edde8b7094a4e24db1cdc3cfa035177
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BloodSpatter03_0
+      rect:
+        serializedVersion: 2
+        x: 2127
+        y: 3281
+        width: 282
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03ef92d5c0b31df499bbb094e390c33a
+      internalID: -1645402257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodSpatter03_6
+      rect:
+        serializedVersion: 2
+        x: 2249
+        y: 3113
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72f52c4820e884543a6859c4cd4d712a
+      internalID: 1772792722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodSpatter03_10
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 2209
+        width: 930
+        height: 864
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f83ae23c5b911b94b82163426be5b820
+      internalID: -1629015865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodSpatter03_14
+      rect:
+        serializedVersion: 2
+        x: 3215
+        y: 2907
+        width: 66
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71b46e799a7133143a817acaebee6be8
+      internalID: 2136753243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodSpatter03_24
+      rect:
+        serializedVersion: 2
+        x: 1643
+        y: 1947
+        width: 350
+        height: 628
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38cbcc285f5ce2a47b5583ad17d4d314
+      internalID: 1135448968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodSpatter03_25
+      rect:
+        serializedVersion: 2
+        x: 2821
+        y: 2555
+        width: 48
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2706e9d5dbb7ca74facfdeca45a2f771
+      internalID: -144966528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodSpatter03_28
+      rect:
+        serializedVersion: 2
+        x: 3033
+        y: 2455
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2049c42e0b3eaa418b5ff868c8194b6
+      internalID: 733748717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodSpatter03_31
+      rect:
+        serializedVersion: 2
+        x: 2167
+        y: 2356
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efd537a1665745d4dad7eb10940e3b3d
+      internalID: 1212129664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodSpatter03_33
+      rect:
+        serializedVersion: 2
+        x: 3317
+        y: 2357
+        width: 48
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2193f94d7292d746a8d41d607c9f774
+      internalID: 870488705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodSpatter03_36
+      rect:
+        serializedVersion: 2
+        x: 2045
+        y: 2247
+        width: 76
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2d8e01353695df4b8821df621eb9640
+      internalID: 825529111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodSpatter03_38
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 755
+        width: 2870
+        height: 1548
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92e31300a27ce7c45bb3a1ccce5717e5
+      internalID: -1744920286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodSpatter03_40
+      rect:
+        serializedVersion: 2
+        x: 3227
+        y: 2093
+        width: 86
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be2f9e329f4985d4290fb865e6aa31ed
+      internalID: -2122606862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodSpatter03_42
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 2097
+        width: 139
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a44c15ffc499bac46b69d6770721e99e
+      internalID: -1205708304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodSpatter03_43
+      rect:
+        serializedVersion: 2
+        x: 3385
+        y: 2057
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59a135b34260f4747aff35596a80ba03
+      internalID: 76124728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodSpatter03_54
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 505
+        width: 310
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46f24da0c02be5344ab971089f52e74b
+      internalID: 46360085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodSpatter03_1
+      rect:
+        serializedVersion: 2
+        x: 3282
+        y: 1501
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9610ed4353acd5f4a92ea5c7277f19fd
+      internalID: -607617344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      BloodSpatter03_0: -1645402257
+      BloodSpatter03_1: -607617344
+      BloodSpatter03_10: -1629015865
+      BloodSpatter03_11: 1717333574
+      BloodSpatter03_12: 1489527475
+      BloodSpatter03_13: -1495061233
+      BloodSpatter03_14: 2136753243
+      BloodSpatter03_15: 1415539129
+      BloodSpatter03_16: -1598230616
+      BloodSpatter03_17: 1865501220
+      BloodSpatter03_18: 1503912591
+      BloodSpatter03_19: 1949922003
+      BloodSpatter03_2: -345054567
+      BloodSpatter03_20: -918663420
+      BloodSpatter03_21: -1331455241
+      BloodSpatter03_22: 1893575467
+      BloodSpatter03_23: -2105801631
+      BloodSpatter03_24: 1135448968
+      BloodSpatter03_25: -144966528
+      BloodSpatter03_26: -1411366093
+      BloodSpatter03_27: 1959103044
+      BloodSpatter03_28: 733748717
+      BloodSpatter03_29: -1973457660
+      BloodSpatter03_3: 1675269547
+      BloodSpatter03_30: 321192856
+      BloodSpatter03_31: 1212129664
+      BloodSpatter03_32: 2105387853
+      BloodSpatter03_33: 870488705
+      BloodSpatter03_34: 634821109
+      BloodSpatter03_35: 2130104410
+      BloodSpatter03_36: 825529111
+      BloodSpatter03_37: 1732543877
+      BloodSpatter03_38: -1744920286
+      BloodSpatter03_39: 938783070
+      BloodSpatter03_4: -628374416
+      BloodSpatter03_40: -2122606862
+      BloodSpatter03_41: -1786198372
+      BloodSpatter03_42: -1205708304
+      BloodSpatter03_43: 76124728
+      BloodSpatter03_44: -66643710
+      BloodSpatter03_45: 1774964259
+      BloodSpatter03_46: -1723267074
+      BloodSpatter03_47: -1897945149
+      BloodSpatter03_48: -619659302
+      BloodSpatter03_49: -2085563989
+      BloodSpatter03_5: -1053941280
+      BloodSpatter03_50: -1966374175
+      BloodSpatter03_51: -1346577816
+      BloodSpatter03_52: -1242806808
+      BloodSpatter03_53: 952301389
+      BloodSpatter03_54: 46360085
+      BloodSpatter03_55: -1782700021
+      BloodSpatter03_56: -1999540674
+      BloodSpatter03_57: 1886370498
+      BloodSpatter03_58: 1842564980
+      BloodSpatter03_59: -852736590
+      BloodSpatter03_6: 1772792722
+      BloodSpatter03_7: -1667008945
+      BloodSpatter03_8: 919121275
+      BloodSpatter03_9: -917506612
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
